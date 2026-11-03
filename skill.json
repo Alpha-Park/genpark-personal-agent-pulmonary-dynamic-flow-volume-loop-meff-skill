@@ -1,0 +1,23 @@
+{
+  "name": "genpark-personal-agent-pulmonary-dynamic-flow-volume-loop-meff-skill",
+  "version": "1.0.0",
+  "description": "Calculates spirometry Maximum Mid-Expiratory Flow (FEF25-75/MMEF), FEF50/FIF50 ratio, and flow-volume loop morphology to assess peripheral and upper airway disease.",
+  "author": "GenPark Ecosystem",
+  "license": "Apache-2.0",
+  "keywords": [
+    "personal-agent",
+    "openclaw",
+    "genpark",
+    "mcp",
+    "mcp-server",
+    "pulmonary",
+    "spirometry",
+    "fef25-75",
+    "mmef",
+    "flow-volume-loop",
+    "airway-obstruction",
+    "zero-dependency"
+  ],
+  "main": "client.py",
+  "mcp_server": "mcp_server.py"
+}
